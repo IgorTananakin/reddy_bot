@@ -1,0 +1,17 @@
+{
+    "name": "mobcash/helthlife",
+    "autoload": {
+        "psr-4": {
+            "Mobcash\\Helthlife\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor",
+            "email": "tananakin.tank@yandex.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
